@@ -94,7 +94,3 @@ This project is for academic use only.
 For questions or feedback, please contact:
 newtonmutembei047@gmail.com
 
-
-
-If you want, I can help you customize it with your GitHub repo URL and your contact details!
-```
